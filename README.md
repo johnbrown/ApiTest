@@ -44,4 +44,4 @@ bin/behat
 ```
 
 ## Submission
-When you are happy with your results, please submit a pull request on gitHub.
+When you are happy with your results, please submit a pull request on github.
